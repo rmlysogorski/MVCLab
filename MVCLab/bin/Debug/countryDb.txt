@@ -1,0 +1,7 @@
+America,North America,red|white|blue
+Canada,North America,red|white
+Jamaica,North America,black|gold|green
+Nepal,Asia,red|blue|white
+Finland,Europe,blue|white
+Sweden,Europe,blue|gold
+Portugal,Europe,green|red|yellow

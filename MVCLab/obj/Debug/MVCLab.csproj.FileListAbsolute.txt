@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\MVCLab\MVCLab\bin\Debug\MVCLab.exe.config
+C:\Users\Richie\source\repos\MVCLab\MVCLab\bin\Debug\MVCLab.exe
+C:\Users\Richie\source\repos\MVCLab\MVCLab\bin\Debug\MVCLab.pdb
+C:\Users\Richie\source\repos\MVCLab\MVCLab\obj\Debug\MVCLab.csprojAssemblyReference.cache
+C:\Users\Richie\source\repos\MVCLab\MVCLab\obj\Debug\MVCLab.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\MVCLab\MVCLab\obj\Debug\MVCLab.exe
+C:\Users\Richie\source\repos\MVCLab\MVCLab\obj\Debug\MVCLab.pdb
